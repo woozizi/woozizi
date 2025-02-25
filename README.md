@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woozi__zi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woozizi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woozi__zi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woozizi&layout=compact&theme=tokyonight)
 <!--
 **woozizi/woozizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
