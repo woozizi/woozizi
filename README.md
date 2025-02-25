@@ -1,9 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Woozi!</h1>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woozizi&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Frontend+%7C+Backend+Developer;Always+learning+new+things!">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woozizi&layout=compact&theme=tokyonight)
 <!--
 **woozizi/woozizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
