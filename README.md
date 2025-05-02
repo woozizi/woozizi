@@ -25,3 +25,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Konva-000000?style=flat&logoColor=white" />
 </p>
+
+---
+### 📈 Recent Contributions
+
+<img src="https://github.com/woozizi/woozizi/blob/main/github-metrics.svg" />
