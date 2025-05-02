@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * 0"}]  # 매주 갱신
+  schedule: [{cron: "0 0 * * 0"}]  # 매주 일요일 자동 실행
   workflow_dispatch:
 
 jobs:
@@ -11,18 +11,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: woozizi
-
-          # 기본 정보 + 활동 기록 표시
           base: header, activity
           config_timezone: Asia/Seoul
 
-          # 외부 레포에 대한 기여 강조
           repositories_affiliations: owner, collaborator, contributor
+
           plugin_contributions: yes
           plugin_contributions_sections: repositories
           plugin_contributions_limit: 5
 
-          # 사용 언어 분석 (기여한 레포 포함)
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
           plugin_languages_limit: 8
