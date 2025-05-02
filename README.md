@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=400&lines=React+%7C+Next.js+%7C+Canvas+Editor;Driven+by+Why,+Not+Just+How.;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=400&lines=React+%7C+Next.js+%7C;Driven+by+Why,+Not+Just+How.;Welcome+to+my+GitHub!" />
 </p>
 
 ---
