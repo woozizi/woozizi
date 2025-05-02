@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋 I'm Woozi</h1>
-<p align="center">Frontend Developer | Passionate about intuitive UI & clean architecture</p>
+<h1 align="center">Hi 👋 I'm woozizi</h1>
+<p align="center">
+  Frontend Developer who always starts with <strong>“Why?”</strong><br />
+  I care deeply about intuitive UI and clean architectural thinking.
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=400&lines=React+%7C+Next.js;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=400&lines=React+%7C+Next.js+%7C+Canvas+Editor;Driven+by+Why,+Not+Just+How.;Welcome+to+my+GitHub!" />
 </p>
 
 ---
